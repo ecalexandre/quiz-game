@@ -3,7 +3,7 @@ question_2 = question_3 = question_4 = question_5 = question_6 = question_7 = qu
 question_12 = question_13 = question_14 = question_15 = BONUS_question = False
 score = good_answers_gotten_by_user = 0
 
-print("========== Quiz game🏅==========\nHi, wanna test your knowledge 🧠?\nThere are 15 questions in total")
+print("+-+-+-+-+ +-+-+-+-+\n|Q|u|i|z| |g|a|m|e|🏆\n+-+-+-+-+ +-+-+-+-+\nHi, wanna test your knowledge 🧠?\nThere are 15 questions in total")
 print("Each question is worth 5 points\nEach question will get harder\nLet's see how many points you can get!\n")
 while quiz_running:
     #easy part of the game
@@ -11,7 +11,7 @@ while quiz_running:
       print("Which country is considered the largest in the world 🌎?    1/15")
       print("1. Canada\n \n2. United states\n \n3. Russia\n \n4. Japan")
       while question_1:
-         user_answer_question_1 = input("Enter a number (1-4): ")
+         user_answer_question_1 = input('Enter a number (1-4): ')
          try:
             val_1 = int(user_answer_question_1)
             match val_1:
@@ -36,7 +36,7 @@ while quiz_running:
         print(""); print("Which planet 🪐 is closest to the sun?    2/15")
         print("1. Earth\n \n2. Mercury\n \n3. Mars\n \n4. Pluto")
         while question_2:
-            user_answer_question_2 = input("Enter a number (1-4): ")
+            user_answer_question_2 = input('Enter a number (1-4): ')
             try:    
                val_2 = int(user_answer_question_2)
                match val_2:
@@ -399,16 +399,16 @@ while quiz_running:
                   
                   case 1|2|3|5|6:
                     print("This is incorrect. When you look at the function rule it is f(x) = 3x - 4, which is a linear function\n \nbecause it is the only type of first-degree function that has both the rate of change (a) and the initial value (b) that is not worth 0\n \n")
-                    question_15 = False; quiz_running = False; print(f'==========Results 🏆==========\n \nYou got {good_answers_gotten_by_user} good answers in total\n \nYour score is {score}%')
+                    question_15 = False; quiz_running = False; print(f'+-+-+-+-+-+-+-+\n R|e|s|u|l|t|s|\n+-+-+-+-+-+-+-+\n \nYou got {good_answers_gotten_by_user} good answers in total\n \nYour score is {score}%')
                   
                   case 4:
                     print("Correct you got it!\n \nit is the only type of first-degree function that has both the rate of change (a) and the initial value (b) that is not worth 0\n \n")
-                    question_15 = False; quiz_running = False; score += 10; good_answers_gotten_by_user += 1; print(f'==========Results 🏆==========\n \nYou got {good_answers_gotten_by_user} good answers in total\n \nYour score is {score}%')
+                    question_15 = False; quiz_running = False; score += 10; good_answers_gotten_by_user += 1; print(f'+-+-+-+-+-+-+-+\n R|e|s|u|l|t|s|\n+-+-+-+-+-+-+-+\n \nYou got {good_answers_gotten_by_user} good answers in total\n \nYour score is {score}%')
                   
                   case _:
                     print("Invalid number, It is the linear function\n \nbecause it is the only type of first-degree function that has both the rate of change (a) and the initial value (b) that is not worth 0\n \n")
-                    question_15 = False; quiz_running = False; print(f'==========Results 🏆==========\n \nYou got {good_answers_gotten_by_user} good answers in total\n \nYour score is {score}%') 
+                    question_15 = False; quiz_running = False; print(f'+-+-+-+-+-+-+-+\n R|e|s|u|l|t|s|\n+-+-+-+-+-+-+-+\n \nYou got {good_answers_gotten_by_user} good answers in total\n \nYour score is {score}%') 
 
              except ValueError:
                 print("You should have put a valid number. It is however, the linear function\n \nBecause it is the only first-degree function that both the rate of change and the initial value that is not worth 0\n \n")
-                question_15 = False; quiz_running = False; print(f'==========Results 🏆==========\n \nYou got {good_answers_gotten_by_user} good answers in total\n \nYour score is {score}%')
+                question_15 = False; quiz_running = False; print(f'+-+-+-+-+-+-+-+\n R|e|s|u|l|t|s|\n+-+-+-+-+-+-+-+\n \nYou got {good_answers_gotten_by_user} good answers in total\n \nYour score is {score}%')
