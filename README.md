@@ -2,7 +2,7 @@
 
 ## About it:
 
-This programs consists in giving you random knowledge questions once at a time. For example, mathematical, history, geographical questions that you may or not know. 
+This program consists in giving you random knowledge questions once at a time. For example, mathematical, history, geographical questions that you may or not know. 
 
 
 ## Features
