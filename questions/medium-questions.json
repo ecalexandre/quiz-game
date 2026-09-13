@@ -1,0 +1,470 @@
+[
+  {
+    "question": "What is the chemical formula for water?",
+    "choices": [
+      "O2",
+      "HO2",
+      "H2O",
+      "HO"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The chemical formula of water is H2O"
+  },
+  {
+    "question": "What is the name of the galazy that contains our Solar System?",
+    "choices": [
+      "The Andromeda Galaxy",
+      "The Milky Way",
+      "The Sombrero Galaxy",
+      "The Whirlpool Galaxy"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": "Our galaxy is named 'The milky Way'"
+  },
+  {
+    "question": "Which organ in the human body is primarily responsible for pumping blood?",
+    "choices": [
+      "Brain",
+      "Lungs",
+      "Heart",
+      "Stomach"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The Heart is responsible for pumping blood to your entire body"
+  },
+  {
+    "question": "What process do plants use to make their own food using sunlight?",
+    "choices": [
+      "Digestion",
+      "Respiration",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "It is the Photosynthesis"
+  },
+  {
+    "question": "Which country has the largest population in 2026?",
+    "choices": [
+      "Japan",
+      "China",
+      "United States",
+      "India"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "medium",
+    "explanation": "India has the world's largest population."
+  },
+  {
+    "question": "In the periodic table, which element uses the symbol Fe?",
+    "choices": [
+      "Fire",
+      "Iron",
+      "Fluorine",
+      "Hydrogen"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": "Fe is the chemical symbol for iron."
+  },
+  {
+    "question": "In what year did the United States declare independence?",
+    "choices": [
+      "1774",
+      "1870",
+      "1776",
+      "2010"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The Declaration of Independence was adopted on July 4, 1776."
+  },
+  {
+    "question": "What currency is used in Japan?",
+    "choices": [
+      "Dollar",
+      "Yen",
+      "Peso",
+      "Yuan"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": "Japan uses the yen."
+  },
+  {
+    "question": "How is the area of a rectangle calculated?",
+    "choices": [
+      "Base multiplied by height",
+      "Base multiplied by height, divided by two",
+      "Four times one side",
+      "Base multiplied by itself"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The area of a rectangle is base multiplied by height."
+  },
+  {
+    "question": "What is the invisible force that pulls objects toward the center of the Earth when you drop them",
+    "choices": [
+      "Friction",
+      "Gravity",
+      "Buoyancy",
+      "Magnetism"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": "Gravity is the invisible force that pulls any objects on the ground/toward the center of Earth when dropped"
+  },
+  {
+    "question": "The Statue of Liberty was a gift to the United States from which country?",
+    "choices": [
+      "United Kingdom",
+      "Canada",
+      "Spain",
+      "France"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The Statue of Liberty was given to the United States by France in the late 19th century"
+  },
+  {
+    "question": "Which ocean separates the continents of North America and Europe?",
+    "choices": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Southern Ocean",
+      "Indian Ocean"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": "Atlantic ocean is the ocean the separates North America and Europe"
+  },
+  {
+    "question": "Which country shares the longest continuous land border with France?",
+    "choices": [
+      "Suriname",
+      "Brazil",
+      "Andorra",
+      "Germany"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": "France's longest land border (730 km) is shared with Brazil, due to the border between French Guiana, an overseas department of France, and the Brazilian state of Amapá"
+  },
+  {
+    "question": "What is the value of 3(4 + 2^2) - 10?",
+    "choices": [
+      "14",
+      "8",
+      "26",
+      "34"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "medium",
+    "explanation": "It is Equal to 14 because: 3 times 4 + 3 times (2^2=4) is 24, then you substract it by 10 and it gives 14"
+  },
+  {
+    "question": "What is the value of x here? ---->  4x - 7 = 13",
+    "choices": [
+      "1.5",
+      "5",
+      "3",
+      "4"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The value of x would be 5 because if you remove 7 on each side, it gives 4x = 20, then you divide 20 by 4 and it gives 5"
+  },
+  {
+    "question": "If 5 notebooks cost $12.50, how much do 8 notebooks cost?",
+    "choices": [
+      "$18.00",
+      "$22.50",
+      "$20.00",
+      "$25.00"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "It equals to $20.00 because if you multiply 12.5 by 8, it gives 100, then divide by 5 and it gives 20"
+  },
+  {
+    "question": "A rectangular garden has a length of 12 meters and a width of 8 meters. What is the area of the garden?",
+    "choices": [
+      "121 m²",
+      "144 m²",
+      "98 m²",
+      "96 m²"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "medium",
+    "explanation": "It is 96 m² because, to calculate the area of a rectangle, you have to use the length * width formula so multiply 12 by 8 and it gives 96"
+  },
+  {
+    "question": "The population of a town increased from 200 to 250. What was the percentage increase in the population?",
+    "choices": [
+      "+20%",
+      "+29%",
+      "+24%",
+      "+25%"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The population in the town became 25% larger than before"
+  },
+  {
+    "question": "Who was the second president of the United States?",
+    "choices": [
+      "George Washington",
+      "Donald Trump",
+      "John Adams",
+      "Thomas Jefferson"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "John Adams was the 2nd president of the United States serving from 1801 to 1809"
+  },
+  {
+    "question": "In which city did the Olympic Games originate?",
+    "choices": [
+      "Atheens, Greece",
+      "Montreal, Canada",
+      "New York, United States",
+      "Tokyo, Japan"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The Olympic Games originate from Atheens in Greece"
+  },
+  {
+    "question": "Which ancient civilization built the Great Pyramids?",
+    "choices": [
+      "The Greeks",
+      "The Egyptians",
+      "The Indigenous people",
+      "The Romans"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The Egyptians were the ones who built the Great Pyramids"
+  },
+  {
+    "question": "Which of the following countries is both an island and a continent?",
+    "choices": [
+      "Montreal",
+      "Greenland",
+      "Australia",
+      "Dominican Republic"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "Australia is one of the only countries that is both an island and a continent"
+  },
+  {
+    "question": "What is the official language of Brazil?",
+    "choices": [
+      "Spanish",
+      "Portuguese",
+      "Brazilian language",
+      "English"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": " Brazil's current official language is Portuguese"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "choices": [
+      "Sahara Desert",
+      "Artic Desert",
+      "Gobi Desert",
+      "Antartica Desert"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The largest desert is the Antartica Desert"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "choices": [
+      "Greenland",
+      "Australia",
+      "New Guinea",
+      "Madagascar"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "medium",
+    "explanation": "It is the Greenland"
+  },
+  {
+    "question": "Which country is known as the 'Rainbow Nation'?",
+    "choices": [
+      "Mexico",
+      "Brazil",
+      "South Africa",
+      "Tanzania"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "South Africa is the country that is known for being the 'Rainbow Nation'"
+  },
+  {
+    "question": "What is the simplified version of this algebraic expression? ----> 5x + 3y - 2x + 4y",
+    "choices": [
+      "8xy - 6xy",
+      "7x + 7y",
+      "3x + 7y",
+      "3x - y"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The simplified version of the algebraic expression above will be 3x + 7y"
+  },
+  {
+    "question": "What is the simplified version of the binomials here? ----> (x + 4)(x - 7)",
+    "choices": [
+      "x² - 3x - 28",
+      "6x - 28",
+      "x² - 3x + 28",
+      "6x² + 3x + 28"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The simplified version of the binomials above will be x² - 3x - 28"
+  },
+  {
+    "question": "Which of the following is the formula used to calculate the area of a circle?",
+    "choices": [
+      "2 * pi * radius",
+      "pi * diameter",
+      "2 * pi * radius²",
+      "pi * radius²"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The right formula would be 'pi * radius^2'"
+  },
+  {
+    "question": "What is the perimeter of a square with a side length of 6 meters?",
+    "choices": [
+      "30 meters",
+      "24 meters",
+      "12 meters",
+      "60 meters"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": "It is 24 meters because a square has 4 sides and each sides has 6 meters so if we multiply 6 * 4, it gives 24"
+  },
+  {
+    "question": "What is the circumference of a circle of a 4 cm radius? hint: use this formula ----> 2 * pi * radius",
+    "choices": [
+      "24 cm",
+      "30.12 cm",
+      "25.13 cm",
+      "23.76 cm"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "It is 25.13 cm because if you use the formula given above (2 * pi * 4), it gives 25.13 cm"
+  },
+  {
+    "question": "Who in the government is responsible for applying a law?",
+    "choices": [
+      "Judges",
+      "Legislative Council",
+      "Executive Council",
+      "Judicial Council"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The Executive Council is the one who applies the law that the Legislative Council and the Judicial Council agreed to apply"
+  },
+  {
+    "question": "Who is the current Prime Minister of Canada (in 2026)?",
+    "choices": [
+      "Justin Trudeau",
+      "Donald Trump",
+      "Mark Carney",
+      "Barack Obama"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "medium",
+    "explanation": "Marck Carney is the 24th and current Prime Minister of Canada"
+  },
+  {
+    "question": "Which planet in our solar system is the hottest?",
+    "choices": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": "Venus is the hottest planet due to its toxic atmosphere that traps heat inside"
+  },
+  {
+    "question": "What is the chemical symbol for the element Gold?",
+    "choices": [
+      "Go",
+      "Gd",
+      "Ag",
+      "Au"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The chemical symbol for the element Gold is Au"
+  },
+  {
+    "question": "What is the standard unit of force?",
+    "choices": [
+      "Mass",
+      "Newton",
+      "Gravity",
+      "Weight"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "medium",
+    "explanation": "The standard unit of force the Newton (N)"
+  }
+]

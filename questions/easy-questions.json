@@ -1,0 +1,325 @@
+[
+  {
+    "question": "Which country is considered the largest in the world?",
+    "choices": [
+      "Canada",
+      "United States",
+      "Russia",
+      "Japan"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "easy",
+    "explanation": "Russia is the largest country in the world by land area."
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "choices": [
+      "Earth",
+      "Mercury",
+      "Mars",
+      "Pluto"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "easy",
+    "explanation": "Mercury is the closest planet to the Sun?"
+  },
+  {
+    "question": "What is the biggest planet in our solar system",
+    "choices": [
+      "Earth",
+      "Saturn",
+      "Jupiter",
+      "Mars"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "easy",
+    "explanation": "Jupiter is the biggest planet in our solar system"
+  },
+  {
+    "question": "What animal is the tallest in the world?",
+    "choices": [
+      "Giraffe",
+      "Elephant",
+      "Mouse",
+      "Cheetah"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "easy",
+    "explanation": "The giraffe is the tallest animal in the world"
+  },
+  {
+    "question": "How many states are in the United States?",
+    "choices": [
+      "49",
+      "50",
+      "51",
+      "48"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "easy",
+    "explanation": "The United States of America currently has 50 states"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "choices": [
+      "Earth",
+      "Neptune",
+      "Mars",
+      "Venus"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "easy",
+    "explanation": "Mars is known as the Red Planet in our solar system"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "choices": [
+      "Atlantic Ocean",
+      "Artantica Ocean",
+      "Pacific Ocean",
+      "Artic Ocean"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "easy",
+    "explanation": "The Pacific Ocean is the biggest ocean in the World which covers 70% of our planet."
+  },
+  {
+    "question": "What color is the Statue of Liberty?",
+    "choices": [
+      "Golden",
+      "Yellow",
+      "Green",
+      "Colorless"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "easy",
+    "explanation": "The Statue of Liberty's color is green due to many reasons like the oxidation process"
+  },
+  {
+    "question": "How many colors are in a rainbow?",
+    "choices": [
+      "5",
+      "9",
+      "8",
+      "7"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "easy",
+    "explanation": "A rainbow has 7 seven colors which are red, orange, yellow, green, blue, indigo and violet"
+  },
+  {
+    "question": "How many planets are currently in our solar system?",
+    "choices": [
+      "8",
+      "10",
+      "5",
+      "7"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "easy",
+    "explanation": "There are currently 8 planets in our solar system which are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune"
+  },
+  {
+    "question": "What do caterpillars turn into?",
+    "choices": [
+      "ants",
+      "Butterflies",
+      "Spiders",
+      "Mosquitoes"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "easy",
+    "explanation": "Caterpillars turn into Butterflies"
+  },
+  {
+    "question": "What is the biggest mountain in the world?",
+    "choices": [
+      "Mount Kilimanjaro",
+      "Mount Everest",
+      "Denali",
+      "The Matterhorn"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "easy",
+    "explanation": "The biggest mountain in the world above sea level is Mount Everest"
+  },
+  {
+    "question": "What is the main source of energy for Earth?",
+    "choices": [
+      "The Earth's core",
+      "Oxygen",
+      "The Sun",
+      "The Oceans"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "easy",
+    "explanation": "Earth's main source of energy is the Sun"
+  },
+  {
+    "question": "What state of matter is an ice cube?",
+    "choices": [
+      "Liquid",
+      "Gaz",
+      "Energy",
+      "Solid"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "easy",
+    "explanation": "The state of matter of an ice cube is the solid state"
+  },
+  {
+    "question": "What color are emeralds?",
+    "choices": [
+      "Green",
+      "Gray",
+      "Blue",
+      "White"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "easy",
+    "explanation": "Emaralds have a green color"
+  },
+  {
+    "question": "What do we call a storm with very strong winds and a spinning funnel?",
+    "choices": [
+      "Strong wind",
+      "Tsunami",
+      "Tornado",
+      "Hurricane"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "easy",
+    "explanation": "It is called a Tornado"
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "choices": [
+      "1",
+      "5",
+      "10",
+      "3"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "easy",
+    "explanation": "An octopus usually has 3 hearts"
+  },
+  {
+    "question": "How many bones does an average adult human have?",
+    "choices": [
+      "214",
+      "129",
+      "206",
+      "165"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "easy",
+    "explanation": "An average grown human has 206 bones"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "choices": [
+      "Skin",
+      "Heart",
+      "Muscle",
+      "Skull"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "easy",
+    "explanation": "The largest organ in the human body is the skin" 
+  },
+  {
+    "question": "What shape is the Earth?",
+    "choices": [
+      "Flat",
+      "Round",
+      "Square",
+      "Cube"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "easy",
+    "explanation": "The Earth's shape is round"
+  },
+  {
+    "question": "What happens during a storm?",
+    "choices": [
+      "It rains",
+      "Nothing",
+      "It rains and there is ALWAYS lightning",
+      "It rains and there is sometimes lightning"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "easy",
+    "explanation": "There is almost always rain during a storm and there is not always lightning during a storm even if it happens often."
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "easy",
+    "explanation": "A hexagon has six sides."
+  },
+  {
+    "question": "Which city is known as 'the city that never sleeps'?",
+    "choices": [
+      "New York",
+      "Paris",
+      "Tokyo",
+      "Montreal"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "easy",
+    "explanation": "New York is commonly called the city that never sleeps."
+  },
+  {
+    "question": "Solve: 10 × x = 15,000. What is x?",
+    "choices": [
+      "3000",
+      "1500",
+      "6002",
+      "150"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "easy",
+    "explanation": "15,000 divided by 10 equals 1,500."
+  },
+  {
+    "question": "What travels faster: light or sound?",
+    "choices": [
+      "Light",
+      "Sound"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "easy",
+    "explanation": "Light travels faster than sound"
+  }
+]

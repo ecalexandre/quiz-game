@@ -1,0 +1,611 @@
+[
+  {
+    "question": "What is the main waste gas humans exhale?",
+    "choices": [
+      "Oxygen",
+      "Air",
+      "Carbon dioxide",
+      "NaCl",
+      "O2",
+      "CO2"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "The body produces carbon dioxide as a waste product."
+  },
+
+
+  {
+    "question": "What is always in front of you but cannot be seen?",
+    "choices": [
+      "Your shadow",
+      "Air",
+      "The future",
+      "Everything ahead",
+      "The past",
+      "Your body"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "The answer to the riddle is the future."
+  },
+
+
+  {
+    "question": "A + B = 32 and A - B = 18. What is A × B?",
+    "choices": [
+      "200",
+      "10",
+      "187",
+      "50",
+      "175",
+      "70"
+    ],
+    "correct_answer": 5,
+    "points": 10,
+    "level": "hard",
+    "explanation": "A is 25 and B is 7, so A × B equals 175."
+  },
+
+
+  {
+    "question": "What is the approximate speed of light in kilometres per second?",
+    "choices": [
+      "299,792,458 m/s",
+      "300,000,000 km/s",
+      "299,792 km/s",
+      "272,999 km/s",
+      "186,282 mi/s",
+      "100,000,000,000 km/s"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "Light travels at approximately 299,792 kilometres per second."
+  },
+
+
+  {
+    "question": "If you earn $80 in 4 hours, how many hours are needed to earn $2,000?",
+    "choices": [
+      "40",
+      "100",
+      "50",
+      "250",
+      "450",
+      "400"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "hard",
+    "explanation": "$80 in 4 hours equals $20 per hour. $2,000 divided by $20 equals 100 hours."
+  },
+
+
+  {
+    "question": "What type of function is f(x) = 3(x - 4)?",
+    "choices": [
+      "Identity function",
+      "Constant function",
+      "Partial function",
+      "Linear function",
+      "Rational function",
+      "Quadratic function"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "hard",
+    "explanation": "Expanding gives f(x) = 3x - 12, which is a linear function."
+  },
+
+
+  {
+    "question": "if f(x) = 3x² - 2x + 1, what is the value of f(2)?",
+    "choices": [
+      "5",
+      "13",
+      "17",
+      "6",
+      "9",
+      "10"
+    ],
+    "correct_answer": 5,
+    "points": 10,
+    "level": "hard",
+    "explanation": "It is equal to 9 because if you multiply 3 by x² which is 3 * (2²= 4), it gives 12 and when you multiply 2 by x which is 2*2 and it equals to 4 then, you substract 12 by 4 and add 1 and it gives 9" 
+  },
+
+
+  {
+    "question": "Which of the following best describes a physical force?",
+    "choices": [
+      "The speed at which an objects travels",
+      "The energy stored in a battery",
+      "A push or a pull",
+      "The amount of matter in an object",
+      "The weight of an object",
+      "The size of an object"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "A force is simply a push or a pull acting upon an object"
+  },
+
+
+  {
+    "question": "What term is used to describe the energy an object has because it is moving?",
+    "choices": [
+      "Chemical energy",
+      "Thermal energy",
+      "Potential energy",
+      "Wind energy",
+      "Electrical energy",
+      "Kinetic energy"
+    ],
+    "correct_answer": 6,
+    "points": 10,
+    "level": "hard",
+    "explanation": "Kinetic energy is the energy of motion so, anything that is moving has kinetic energy"
+  },
+
+
+  {
+    "question": "What is the difference between mass and weight?",
+    "choices": [
+      "Mass is a force, but weight is not",
+      "They are the same thing",
+      "Mass changes based on gravity, while weight stays the same",
+      "Weight changes based on gravity while mass stays the same",
+      "Weight is force, but mass is not",
+      "Mass changes based on the weight"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "hard",
+    "explanation": "Weight changes based on gravity while mass stays the same"
+  },
+
+
+  {
+    "question": "In a right-angled triangle, the lengths of the two legs are 6 cm and 8 cm. What is the length of the hypotenuse? hint: remember the pythagorean theorem? a² + b² = c²",
+    "choices": [
+      "8 cm",
+      "9 cm",
+      "10 cm",
+      "12 cm",
+      "14 cm",
+      "16 cm"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "It is 10 because, if you look above, at the pythagorean theorem, this is what you have to solve: 6² + 8² = c², then it gives 64 + 36, which gives 100 = c², then you find the square of 100 and it will give you 10 as the length of the hypotenuse"
+  },
+
+
+  {
+    "question": "What is the overall shape of the DNA molecule?",
+    "choices": [
+      "Circular loop",
+      "Triple helix",
+      "Double helix",
+      "Single strand",
+      "Beta-pleated sheet",
+      "Alpha-helix"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "The DNA molecule consists of two antiparallel strands coiled to form a double helix"
+  },
+
+
+  {
+    "question": "What is the phase change process called when a gas transforms directly into a solid?",
+    "choices": [
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Melting",
+      "Deposition",
+      "Freezing"
+    ],
+    "correct_answer": 5,
+    "points": 10,
+    "level": "hard",
+    "explanation": "Deposition (or desublimation) is the phase transition in which gas transforms directly into solid without passing through the liquid phase"
+  },
+
+
+  {
+    "question": "Stored energy or energy associated with an object's position is known as what?",
+    "choices": [
+      "Chemical energy",
+      "Nuclear energy",
+      "Potential energy",
+      "Kinetic energy",
+      "Radiant energy",
+      "Thermal energy"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "Potential energy is the stored energy that depends upon the relative position, state, or configuration of various parts of a system."
+  },
+
+
+  {
+    "question": "What do we call a serious crime that usually carries a prison sentence of more than one year?",
+    "choices": [
+      "Infraction",
+      "Misdemeanor",
+      "Tort",
+      "Offense",
+      "Felony",
+      "Violation"
+    ],
+    "correct_answer": 5,
+    "points": 10,
+    "level": "hard",
+    "explanation": "A serious crime that usually carries a prison sentence of more than one year is called a felony"
+  },
+
+
+  {
+    "question": "What standard of proof is required to find a defendant guilty in a criminal trial?",
+    "choices": [
+      "Preponderance of the evidence",
+      "Probable cause",
+      "Clear and convincing evidence",
+      "Reasonable suspicion",
+      "Beyond a reasonable doubt",
+      "Balance of probabilities"
+    ],
+    "correct_answer": 5,
+    "points": 10,
+    "level": "hard",
+    "explanation": "It is the highest standard of proof in the legal system and is exclusively required to secure a conviction in a criminal trial"
+  },
+
+
+  {
+    "question": "Given the function --> f(x) = 2x^2 - 3x + 1, what is the value of f(-2)?",
+    "choices": [
+      "15",
+      "-1",
+      "3",
+      "11",
+      "16",
+      "13"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "hard",
+    "explanation": "The value of f(-2) for the function f(x) = 2x^2 - 3x + 1 is 15"
+  },
+
+
+  {
+    "question": "What is the answer to this equation? ---> 2(4 - y) - 3(y + 3) = -11",
+    "choices": [
+      "y = - 2",
+      "y = 0",
+      "y = 2",
+      "y = 4",
+      "y = -2",
+      "y = -4"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "The correct answer to the equation is y = 2" 
+  },
+
+
+  {
+    "question": "Which of these materials is a good conductor of electricity?",
+    "choices": [
+      "Rubber",
+      "Wood",
+      "Copper",
+      "Plastic",
+      "Glass",
+      "Paper"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "Copper is the only one among these objects who can allow electricity to flow"
+  },
+
+
+  {
+    "question": "What is the smallest matter",
+    "choices": [
+      "Protons",
+      "Electrons",
+      "Neutrons",
+      "Atoms",
+      "Ant",
+      "Water"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "hard",
+    "explanation": "Electrons AND quarks are the smallest possible matter in the universe"
+  },
+
+
+  {
+    "question": "What was the name of the massive British passenger liner that tragically sank on its maiden voyage in 1912 after hitting an iceberg?",
+    "choices": [
+      "The Mary Celeste",
+      "The Titanic",
+      "The Mayflower",
+      "The Santa Maria",
+      "H.L. Hunley",
+      "HMS Victory"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "hard",
+    "explanation": "It was the Titanic"
+  },
+
+
+  {
+    "question": "World War II was a global conflict that involved many nations and finally came to an end in which year?",
+    "choices": [
+      "1947",
+      "1939",
+      "1916",
+      "1921",
+      "1948",
+      "1945"
+    ],
+    "correct_answer": 6,
+    "points": 10,
+    "level": "hard",
+    "explanation": "The World War II global conflict started in 1939 and ended in 1945"
+  },
+
+
+  {
+    "question": "What is the capital city of Australia?",
+    "choices": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth",
+      "Adelaide"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "hard",
+    "explanation": "The capital city of Australia is Canberra"
+  },
+
+
+  {
+    "question": "Which river is widely recognized as the longest river in the world?",
+    "choices": [
+      "Nile River",
+      "Yangtze RIver",
+      "Mississippi River",
+      "Amazon River",
+      "St. Lawrence River",
+      "Mackenzie RIver",
+      "Yukon River"
+    ],
+    "correct_answer": 1,
+    "points": 10,
+    "level": "hard",
+    "explanation": "The longest river Nile River by streching approximately 4,132 to 4,258 miles"
+  },
+
+
+  {
+    "question": "A car accelerates uniformly from rest at a rate of 2 m/s² for 4 seconds. What is its final velocity?",
+    "choices": [
+      "16 m/s",
+      "0.5 m/s",
+      "8 m/s",
+      "4 m/s",
+      "16 m/s",
+      "40 m/s"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "Using the kinematic formula v = v₀ + at, where initial velocity v₀ = 0, acceleration a = 2 m/s², and time t = 4 s, you get v = 0 + (2)(4) = 8 m/s."
+  },
+
+
+  {
+    "question": "How much work is done when a constant force of 10 N pushes a box across a horizontal floor a distance of 5 meters in the exact same direction as the applied force?",
+    "choices": [
+      "2 J",
+      "15 J",
+      "0 J",
+      "0.5 J",
+      "50 J",
+      "5 J"
+    ],
+    "correct_answer": 5,
+    "points": 10,
+    "level": "hard",
+    "explanation": "Work is calculated as W = F × d when the force and displacement are in the same direction. Therefore, W = 10 N × 5 m = 50 Joules."
+  },
+
+
+  {
+    "question": "How do you find the amount of neutrons that an element has, using the periodic table?",
+    "choices": [
+      "Its electronegativity - Its atomic number",
+      "Its atomic number - Its atomic mass",
+      "Its atomic number - Its electronegativity",
+      "Its atomic mass - Its electronegativity",
+      "Its atomic mass - Its atomic number",
+      "Its atomic radius - Its atomic mass"
+    ],
+    "correct_answer": 5,
+    "points": 10,
+    "level": "hard",
+    "explanation": "To find the amount of neutrons an element has, you find to substract the element's atomic mass by its atomic number"
+  },
+  {
+    "question": "How do you find the amout of protons in total of an element, without the periodic table?",
+    "choices": [
+      "Its atomic mass - Its atomic number",
+      "Its atomic mass + Its amount of neutrons",
+      "Its atomic mass - Its amount of neutrons",
+      "Its atomic mass + Its atomic number",
+      "Its atomic mass - Its atomic radius",
+      "Its atomic mass + Its atomic radius"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "hard",
+    "explanation": "Since its atomic number represents the amount of protons, you have to find it by adding its atomic mass and its amount of neutrons"
+  },
+
+
+  {
+    "question": "If you look on google the periodic table, what is the atomic mass of carbon?",
+    "choices": [
+      "14.007 u",
+      "15.999 u",
+      "7 u",
+      "6 u",
+      "12.011 u",
+      "18.998 u"
+    ],
+    "correct_answer": 5,
+    "points": 10,
+    "level": "hard",
+    "explanation": "If you look caerfully, you can the number at the top right of the element symbol and it represents the atomic mass of carbon"
+  },
+
+
+  {
+    "question": "What is the total size (bit length) of an IPv6 address?",
+    "choices": [
+      "32 bits",
+      "64 bits",
+      "128 bits",
+      "256 bits",
+      "48 bits",
+      "1024 bits"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "The total size of an IPv6 address is 128 bits"
+  },
+
+
+  {
+    "question": "What is a variable in computer science?",
+    "choices": [
+      "A value",
+      "Something that holds a value",
+      "Something that gives a value",
+      "It is both a value and a value holder",
+      "It is a function",
+      "It is OOP"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "hard",
+    "explanation": "A variable is something that holds a value"
+  },
+
+
+  {
+    "question": "What happens if you ping 8.8.8.8?",
+    "choices": [
+      "It sends packets to 8.8.8.8",
+      "It sends packets to 8.8.8.8 and gets a reply from 8.8.8.8",
+      "It forces 8.8.8.8 to reply",
+      "It pings 8.8.8.8",
+      "It reveals your location to 8.8.8.8 and you get a reply",
+      "It sends packets to 8.8.8.8 and gets the packets back from 8.8.8.8"
+    ],
+    "correct_answer": 6,
+    "points": 10,
+    "level": "hard",
+    "explanation": "It sends packets to 8.8.8.8 and gets the packets back from 8.8.8.8"
+  },
+
+
+  {
+    "question": "What happens if you shred one of your personal digital files?",
+    "choices": [
+      "Your computer is going to start having issues",
+      "It hides the file so no one gets it",
+      "It overwrites its data with random characters",
+      "It revomes the file from existence",
+      "It just removes the file from the computer but will be stored in a server",
+      "It crashes your computer"
+    ],
+    "correct_answer": 3,
+    "points": 10,
+    "level": "hard",
+    "explanation": "It overwrites its data with random characters"
+  },
+
+
+  {
+    "question": "What is a Trojan malware?",
+    "choices": [
+      "a malicious software program that attaches itself to a clean host file or program, copies itself, and spreads to other files or devices when executed",
+      "a standalone type of malware that can self-replicate and spread automatically across networks without needing human action or a host file",
+      "a cybercriminal or a malicious script that secretly uses another person's or company's computer processing power to mine cryptocurrency without their consent",
+      "a type of malicious computer program that disguises itself as safe software to damage a system or steal data",
+      "a type of malicious software (malware) that locks a user out of their system or encrypts their files, demanding a money payment to restore access",
+      "a type of software that automatically displays or downloads unwanted advertisements, such as pop-ups or banners, on your computer or mobile device"
+    ],
+    "correct_answer": 4,
+    "points": 10,
+    "level": "hard",
+    "explanation": "It is a type of malicious computer program that disguises itself as safe software to damage a system or steal data"
+  },
+
+
+  {
+    "question": "What is vim in linux?",
+    "choices": [
+      "A code editor",
+      "A text editor",
+      "An advanced code editor",
+      "An advanced text editor",
+      "An advanced command-line code editor",
+      "An advanced command-line text editor"
+    ],
+    "correct_answer": 6,
+    "points": 10,
+    "level": "hard",
+    "explanation": "It is an advanced command-line text editor built in almost every linux distro (distributions) also used in coding."
+  },
+
+
+  {
+    "question": "Which of these looks like a real IPv4 address?",
+    "choices": [
+      "256.300.1.1",
+      "192.168.1.1",
+      "999.999.999.999",
+      "ABC.DEF.GHI.JKL",
+      "300.50.10.5",
+      "10.20.30.999"
+    ],
+    "correct_answer": 2,
+    "points": 10,
+    "level": "hard",
+    "explanation": "The correct answer is 192.168.1.1, as valid IPv4 addresses consist of four octets ranging from 0 to 255"
+  }
+]
