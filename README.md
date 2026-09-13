@@ -57,7 +57,7 @@ Good luck!
 
 ==============================================================
 [10 POINTS] Which country is considered the largest in the world? [difficulty: easy] 1/15
->>>>>>> refs/remotes/origin/main
+
 [1] Canada
  
 [2] United states
