@@ -1,3 +1,6 @@
 README-*.md
 quiz-game.docx
 __pycache__/
+build/
+dist/
+*.spec
