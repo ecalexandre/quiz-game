@@ -23,7 +23,7 @@ This program consists in giving you random knowledge questions once at a time. F
 
 ### Usage 👤
 
-- Run your program by simply typing `python3 quiz-game.py`.
+- Run your program by simply typing `python3 quiz_game.py`.
 
 - Then, this should appear at the start of the program:
   ```
@@ -55,8 +55,9 @@ Hi, Welcome to the quiz game 🏆 and here, I am here to test your general knowl
 There are 10 random questions in total that you will have to answer. Each one will potentially get harder so be careful! 😉
 Good luck!
 
-====================================
-[1 POINT] Which country is considered the largest in the world? [difficulty: easy] 1/15
+==============================================================
+[10 POINTS] Which country is considered the largest in the world? [difficulty: easy] 1/15
+>>>>>>> refs/remotes/origin/main
 [1] Canada
  
 [2] United states
