@@ -55,6 +55,7 @@ Hi, Welcome to the quiz game 🏆 and here, I am here to test your general knowl
 There are 10 random questions in total that you will have to answer. Each one will potentially get harder so be careful! 😉
 Good luck!
 
+==============================================================
 [10 POINTS] Which country is considered the largest in the world? [difficulty: easy] 1/15
 [1] Canada
  
