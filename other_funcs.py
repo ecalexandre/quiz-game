@@ -1,3 +1,4 @@
+
 # ================== Modules ======================== #
 import json
 import random
@@ -70,7 +71,7 @@ def read_questions_ask_and_check(file_path, amount_of_questions, player_score, c
       # Displays the points that the questions gives if the user gets the right answer
       # Displays the questions and its difficulty
       # Displays the amount of questions that passed
-      display_chars_one_by_one(0.05, f'\n[{random_question["points"]} POINTS] {random_question["question"]} [difficulty: {random_question["level"]}]  {question_count}/10 \n')
+      display_chars_one_by_one(0.05, f'\n[{random_question["points"]} POINT] {random_question["question"]} [difficulty: {random_question["level"]}]  {question_count}/10 \n')
       
       # display the choices one by one
       for index, choice in enumerate(random_question["choices"], start=1):

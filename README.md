@@ -55,7 +55,8 @@ Hi, Welcome to the quiz game 🏆 and here, I am here to test your general knowl
 There are 10 random questions in total that you will have to answer. Each one will potentially get harder so be careful! 😉
 Good luck!
 
-[10 POINTS] Which country is considered the largest in the world? [difficulty: easy] 1/15
+====================================
+[1 POINT] Which country is considered the largest in the world? [difficulty: easy] 1/15
 [1] Canada
  
 [2] United states
@@ -84,7 +85,7 @@ Example 2:
 
 ```
 ====================================
-[10 POINTS] How many sides does a hexagon polygon have?  [difficulty: easy]  3/15
+[1 POINT] How many sides does a hexagon polygon have?  [difficulty: easy]  3/15
 
 [1] 5 sides
  
