@@ -1,27 +1,27 @@
 ## 🏆Quiz game 🏆
 
-## About it:
+### About it:
 
 This program consists in giving you random knowledge questions once at a time. For example, mathematical, history, geographical questions that you may or not know. 
 
 
-## Features
+### Features 💪
 
-- The user can answer each questions by choosing a number that corresponds with the given possible answers
-
-
-## Requirements
-
-- Python 3.13 or Python 3.14
+>  The user can answer each questions by choosing a number that corresponds with the given possible answers
 
 
-## Installation
+### Requirements 🛄
+
+> Python 3.13 or Python 3.14
+
+
+### Installation 📦
 
 1. Clone the repository with `git clone` command on the repository.
 2. Create a virtual environment for your script with `python3 -m venv` command.
 3. Activate the virtual environment with `source .venv/bin/activate` command
 
-## Usage
+### Usage 👤
 
 - Run your program by simply typing `python3 quiz-game.py`.
 
@@ -48,7 +48,7 @@ Which country is considered the largest in the world 🌎?    1/15
 Enter a number (1-4): 
 ```
 
-## Examples
+#### Examples 👀
 
 Example 1:
 
@@ -81,16 +81,23 @@ If you want to pick an answer, **you have to choose the number that corresponds 
   - Type 4 for **7 sides**
 
 
-## Project structure
+### Project structure 🏗️
 
 ```
 quiz-game/
+|── questions/
+     |── easy-questions.json
+     |── hard-questions.json
+     |── medium-questions.json
+|──.gitignore
 ├── README.md
+|── other_funcs.py
 |── quiz-game.py
+|── quiz_game_ode_testing.py
 ```
 
 
-## Author
+### Author ✍️
 
 ```
 Created by ecalexandre 
