@@ -23,7 +23,7 @@ This program consists in giving you random knowledge questions once at a time. F
 
 ### Usage 👤
 
-- Run your program by simply typing `python3 quiz-game.py`.
+- Run your program by simply typing `python3 quiz_game.py`.
 
 - Then, this should appear at the start of the program:
   ```
